@@ -1,5 +1,9 @@
 # Ultimate-Tic-Tac-Toe-Game
-The Ultimate Tic Tac Toe Game was created using Java.
+The Ultimate Tic Tac Toe Game was created using Java in the fall of 2021.
+The program is run through the DriverMain file. All of the files
+present in this repository are crucial to run the program and to access full capabilities. 
+
+
 What would I do differently if I had to implement this game all over again?
 If I had to implement this game all over again, I would start with better project preparation
 and management. One aspect that I struggled with while developing the game was that 
